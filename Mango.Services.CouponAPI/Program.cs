@@ -41,10 +41,10 @@ app.Run();
 
 void ApplyMigration()
 {
-    using(var scope = app.Services.CreateScope())
+    using (var scope = app.Services.CreateScope())
     {
-        var _db= scope.ServiceProvider.GetRequiredService<AppDbContext>();
-        if(_db.Database.GetPendingMigrations().Count() > 0)
+        var _db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+        if (_db.Database.GetPendingMigrations().Count() > 0)
         {
             _db.Database.Migrate();
         }
