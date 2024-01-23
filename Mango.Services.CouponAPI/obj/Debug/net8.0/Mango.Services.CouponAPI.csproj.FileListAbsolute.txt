@@ -1,11 +1,3 @@
-C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.csproj.AssemblyReference.cache
-C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.AssemblyInfoInputs.cache
-C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.AssemblyInfo.cs
-C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.csproj.CoreCompileInputs.cache
-C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.sourcelink.json
 C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\appsettings.Development.json
 C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\appsettings.json
 C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\Mango.Services.CouponAPI.exe
@@ -125,6 +117,14 @@ C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\
 C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.csproj.AssemblyReference.cache
+C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.AssemblyInfoInputs.cache
+C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.AssemblyInfo.cs
+C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.sourcelink.json
 C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\WorkSpace\Misc\.Net\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.Mango.Services.CouponAPI.Microsoft.AspNetCore.StaticWebAssets.props
